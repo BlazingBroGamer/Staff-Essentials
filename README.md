@@ -24,3 +24,6 @@ Commands and Permissions are all in the Wiki!
 ## To do List:
 - Disable Options
 - Disappear/Appear
+
+## Author
+This plugin has been made by BlazingBroGamer for free on spigot.
